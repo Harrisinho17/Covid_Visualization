@@ -30,8 +30,3 @@ https://public.tableau.com/app/profile/alexander.harris7255/viz/Covid_Visualizat
 ## Acknowledgements
 
 - **Inspired by AlexTheAnalyst's YouTube course on Data Analytics.**
-- **Data was gathered from [https://ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths).**
-
-## License
-
-This project is licensed under the MIT License.
