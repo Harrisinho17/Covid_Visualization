@@ -20,7 +20,7 @@ The resulting Tableau dashboard offers a comprehensive view of the pandemic's ef
 
 - **SQL Queries**: Includes four key SQL queries used to extract data for visualization in Tableau.
 - **Tableau Dashboard**: The final dashboard, created in Tableau, which visualizes the extracted data in an interactive format.
-- **Data Source**: The project utilizes data sourced from [Your Data Source Link Here].
+- **Data Source**: The project utilizes data sourced from https://ourworldindata.org/covid-deaths.
 
 ## Tableau Project URL
 
